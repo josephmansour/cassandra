@@ -1,0 +1,8 @@
+[
+	{"idCommand":"echo","command":"echo"},
+	{"idCommand":"r_lsnr","command":"/home/applprd/tools/.RemoteDBA/r_lsnr"},
+	{"idCommand":"r_sqlplus","command":"sqlplus /nolog @"},
+	{"idCommand":"talert","command":"tail -50 $ORACLE_HOME/admin/$CONTEXT_NAME/diag/rdbms/prod/$ORACLE_SID/trace/alert_$ORACLE_SID.log"},
+	{"idCommand":"tdrc","command":"tail -50 $ORACLE_HOME/admin/$CONTEXT_NAME/diag/rdbms/prod/$ORACLE_SID/trace/drc$ORACLE_SID.log"},
+	{"idCommand":"r_db","command":"/home/applprd/tools/.RemoteDBA/r_db"}
+]

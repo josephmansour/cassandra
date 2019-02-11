@@ -1,0 +1,20 @@
+[
+	{"key":"new_email","value":"A new email is received, ID: "},
+	{"key":"request_moderation","value":" would like to execute this command '@1' by the account @2. To confirm, just reply to this email, otherwise ignore it \r\n"},
+	{"key":"command_executed","value":"The file @1 was executed by @2 and the result is logged in @3"},
+	{"key":"command_failed","value":"The file @1 could not be executed by @2 because of: "},
+	{"key":"email_not_sent","value":"The email could not be sent because of: "},
+	{"key":"not_read","value":"could not be read because of: "},
+	{"key":"wrong_format","value":"is not properly formatted because of: "},
+	{"key":"prefix","value":"EAS-"},
+	{"key":"label_id","value":" - ID: "},
+	{"key":"resend","value":"                       Resend the email"},
+	{"key":"to_moderate","value":"To be moderated"},
+	{"key":"moderated","value":"Moderated"},
+	{"key":"to_execute","value":"To be executed"},
+	{"key":"unwanted_chars","value":"& | ;"},
+	{"key":"executed","value":"Executed"},
+	{"key":"downloads_dir","value":"downloads"},
+	{"key":"shell","value":"cmd.exe"},
+	{"key":"shell_option","value":"/c"}
+]
